@@ -25,7 +25,7 @@ Released   : 20081120
 		<div id="bg2">
 			<div id="header">
 				<div id="logo">
-					<h1><a href="#">astro<span class="color1">turf</span><span class="color2">d</span></a></h1>
+					<h1><a href="#">Disco<span class="color1">Fac</span><span class="color2">e</span></a></h1>
 				</div>
 				<!-- end #logo -->
 				<div id="menu">
